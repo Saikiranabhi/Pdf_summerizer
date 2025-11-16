@@ -14,8 +14,8 @@ A Streamlit web app that extracts text from PDF files and generates AI-powered s
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/Saikiranabhi/Pdf_summerizer.git
+cd Pdf_sumerizer
 ```
 
 2. **Install dependencies**
